@@ -3,3 +3,10 @@ function getRoot(name){
 };
 
 module.exports = getRoot;
+
+/*      
+Name: Christine Mae D. Yunun
+Section: WD302
+Date: 07/14/25
+Activty: Prelim Lab Activity 4: Creating Node.js Application
+*/
